@@ -1,0 +1,18 @@
+{
+  "name": "fast-target",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "FastUptime & Can",
+  "license": "ISC",
+  "dependencies": {
+    "desktop-screenshot": "^0.1.1",
+    "discord.js": "^14.7.1",
+    "moment": "^2.29.4"
+  }
+}
